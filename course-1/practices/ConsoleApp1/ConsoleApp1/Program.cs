@@ -62,8 +62,8 @@ Console.WriteLine(c1 / c2);
 Console.Write("Введите количество рублей: ");
 double rub = double.Parse(Console.ReadLine()!);
 
-int usd = 79;
-int eur = 87;
+int usd = 78;
+int eur = 90;
 int cny = 11;
 
 Console.WriteLine(rub / usd);
